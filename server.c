@@ -8,7 +8,6 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 #include "common.h"
-/*Nick Chao, CMSC417, Fall 2015, Section 0101*/
 
 int cookieGen(char ip[]){
 	char temp[4];
